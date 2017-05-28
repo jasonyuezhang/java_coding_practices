@@ -4,7 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.yuezhang.practices.KDNode;
 
 /**
  * Created by yuezhang on 5/27/17.
